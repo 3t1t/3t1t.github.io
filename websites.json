@@ -1,39 +1,37 @@
 [
     {
-        "name": "Example 1 Site",
-        "slug": "Example1",
-		"about": "Example Website 1!",
-        "url": "https://example1.com",
-		"owner": "owner 1"
+        "name": "zeffo",
+        "slug": "zeffo",
+		"about": ":3",
+        "url": "https://zeffo.me",
+		"owner": "aman"
     },
 	{
-        "name": "Example 2 Site",
-        "slug": "Example2",
-		"about": "Example Website 2!",
-        "url": "https://example2.com",
-        "rss": "https://example2.com/index.xml",
-		"owner": "owner 2"
+        "name": "fried",
+        "slug": "fried",
+		"about": "~",
+        "url": "https://friedchaawal.github.io",
+		"owner": "Fried Chaawal"
     },
     {
-        "name": "Example 3 Site",
-        "slug": "Example3",
-		"about": "Example Website 3!",
-        "url": "https://example3.com",
-        "rss": "https://example.3com/rss/index.xml",
-		"owner": "owner 3"
+        "name": "aeshani",
+        "slug": "aeshani",
+        "about": "poop criminal website",
+        "url": "https://aeshanisingh.com",
+        "owner": "aeshani"
     },
     {
-        "name": "Example 4 Site",
-        "slug": "Example4",
-		"about": "Example Website 4!",
-        "url": "https://example4.com",
-		"owner": "owner 4"
+        "name": "Mooncell07",
+        "slug": "nova",
+        "about": "Personal site for learning web dev",
+        "url": "https://mooncell07.me",
+        "owner": "arcindex@proton.me"
     },
     {
-        "name": "Example 5 Site",
-        "slug": "Example5",
-		"about": "Example Website 5!",
-        "url": "https://example5.com",
-		"owner": "owner 5"
+        "name": "sky99cents",
+        "slug": "sky99cents",
+        "about": " yes ",
+        "url": "https://sky99cents.me/",
+        "owner": "Aamir Mumtaz"
     }
 ]
